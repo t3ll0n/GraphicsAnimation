@@ -1,0 +1,19 @@
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program8_Graphics\Program8_Graphics\bin\Debug\Program8_Graphics.exe.config
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program8_Graphics\Program8_Graphics\bin\Debug\Program8_Graphics.exe
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program8_Graphics\Program8_Graphics\bin\Debug\Program8_Graphics.pdb
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.GraphicsForm.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.Properties.Resources.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.csproj.GenerateResource.Cache
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.exe
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.pdb
+C:\Users\T3L\Dropbox\MSU\CMPS\4143\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.csprojResolveAssemblyReference.cache
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\bin\Debug\Program8_Graphics.exe.config
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\bin\Debug\Program8_Graphics.exe
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\bin\Debug\Program8_Graphics.pdb
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.csprojResolveAssemblyReference.cache
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.GraphicsForm.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.Properties.Resources.resources
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.csproj.GenerateResource.cache
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.csproj.CoreCompileInputs.cache
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.exe
+C:\Users\T3L\Dropbox\MSU\CMPS\4143 - Contemporary Programming Lang\Stringfellow\Program8_Graphics\Program8_Graphics\obj\Debug\Program8_Graphics.pdb

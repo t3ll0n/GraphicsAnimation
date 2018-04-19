@@ -1,0 +1,10 @@
+C:\Projects\CMPS\Graphics\GraphicsAnimation\bin\Debug\Program8_Graphics.exe.config
+C:\Projects\CMPS\Graphics\GraphicsAnimation\bin\Debug\Program8_Graphics.exe
+C:\Projects\CMPS\Graphics\GraphicsAnimation\bin\Debug\Program8_Graphics.pdb
+C:\Projects\CMPS\Graphics\GraphicsAnimation\obj\Debug\GraphicsAnimation.csprojResolveAssemblyReference.cache
+C:\Projects\CMPS\Graphics\GraphicsAnimation\obj\Debug\Program8_Graphics.GraphicsForm.resources
+C:\Projects\CMPS\Graphics\GraphicsAnimation\obj\Debug\Program8_Graphics.Properties.Resources.resources
+C:\Projects\CMPS\Graphics\GraphicsAnimation\obj\Debug\GraphicsAnimation.csproj.GenerateResource.cache
+C:\Projects\CMPS\Graphics\GraphicsAnimation\obj\Debug\GraphicsAnimation.csproj.CoreCompileInputs.cache
+C:\Projects\CMPS\Graphics\GraphicsAnimation\obj\Debug\Program8_Graphics.exe
+C:\Projects\CMPS\Graphics\GraphicsAnimation\obj\Debug\Program8_Graphics.pdb
